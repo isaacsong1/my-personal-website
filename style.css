@@ -1,3 +1,7 @@
+/* Font family code: font-family: 'Raleway', sans-serif;" */
+
 body {
-    background: blue;
+    background: white;
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
 }
